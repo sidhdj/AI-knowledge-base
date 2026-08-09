@@ -5,8 +5,8 @@ created: "2026-08-09"
 updated: "2026-08-09"
 tags: ["drawing", "style-analysis", "manga", "hand-drawn", "art-technique"]
 related:
-  - "../images/芮芮戴眼镜的大头照.jpg"
-  - "../images/芮芮与弟弟跑累了坐在长椅上休息.jpg"
+  - "../../images/black-white/芮芮戴眼镜的大头照.jpg"
+  - "../../images/black-white/芮芮与弟弟跑累了坐在长椅上休息.jpg"
 source: "基于两幅原作的 AI 风格分析"
 author: "AI 分析 + 画家本人"
 confidence: "high"

@@ -18,6 +18,8 @@ AI-knowledge-base/
 │   │   ├── novels/              ← 小说原文（AI 学习素材）
 │   │   └── techniques/          ← 写作技巧笔记
 │   ├── images/                  ← 图片素材（AI 视觉学习素材）
+│   │   ├── black-white/         ← 黑白手绘作品
+│   │   └── color/               ← 彩色作品
 │   ├── political/               ← 政治 & 党建
 │   └── notes/                   ← 杂记 & 想法
 ├── inbox/                       ← 临时缓存区（文件中转站）
@@ -64,10 +66,20 @@ AI-knowledge-base/
 
 ### topics/images - 图片素材（[查看文件夹](topics/images/)）
 
+按色彩风格分子文件夹存放：`black-white/`（黑白手绘）、`color/`（彩色作品）
+
+**black-white/** - 黑白手绘作品（[查看文件夹](topics/images/black-white/)）
+
 | 文件名 | 类型 | 关联笔记 |
 |---|---|---|
 | 芮芮戴眼镜的大头照.jpg | 单人画像 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
 | 芮芮与弟弟跑累了坐在长椅上休息.jpg | 双人场景 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
+
+**color/** - 彩色作品（[查看文件夹](topics/images/color/)）
+
+| 文件名 | 类型 | 说明 |
+|---|---|---|
+| 蓝黄色城市.jpg | 城市风景 | 阳台视角，蓝黄渐变配色的城市天际线 |
 
 ### topics/political - 政治 & 党建
 
