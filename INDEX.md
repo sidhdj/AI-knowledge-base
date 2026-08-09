@@ -56,11 +56,16 @@ AI-knowledge-base/
 
 **techniques/** - 写作技巧笔记（[查看文件夹](topics/writing/techniques/)）
 
-暂无条目
+| 标题 | 文件 | 标签 | 更新时间 |
+|---|---|---|---|
+| 芮芮系列手绘漫画 - 画风分析笔记 | [drawing-style-analysis.md](topics/writing/techniques/drawing-style-analysis.md) | `drawing`, `style-analysis`, `manga` | 2026-08-09 |
 
 ### 🖼️ topics/images - 图片素材（[查看文件夹](topics/images/)）
 
-暂无条目
+| 文件名 | 类型 | 关联笔记 |
+|---|---|---|
+| 芮芮戴眼镜的大头照.jpg | 单人画像 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
+| 芮芮与弟弟跑累了坐在长椅上休息.jpg | 双人场景 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
 
 ### 📝 topics/notes - 杂记 & 想法
 
@@ -81,6 +86,11 @@ AI-knowledge-base/
 | `git` | [Git 常用命令速查表](topics/tools/git-cheatsheet.md) |
 | `tool` | [Git 常用命令速查表](topics/tools/git-cheatsheet.md) |
 | `example` | [RAG 检索增强生成入门指南](topics/ai-ml/rag-intro.md) · [Python 最佳实践速查](topics/programming/python-best-practices.md) |
+| `drawing` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
+| `style-analysis` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
+| `manga` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
+| `hand-drawn` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
+| `art-technique` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
 
 ---
 

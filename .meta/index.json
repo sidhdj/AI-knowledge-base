@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 3,
+  "total_entries": 4,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -24,6 +24,21 @@
     ],
     "git": [
       "topics/tools/git-cheatsheet.md"
+    ],
+    "drawing": [
+      "topics/writing/techniques/drawing-style-analysis.md"
+    ],
+    "style-analysis": [
+      "topics/writing/techniques/drawing-style-analysis.md"
+    ],
+    "manga": [
+      "topics/writing/techniques/drawing-style-analysis.md"
+    ],
+    "hand-drawn": [
+      "topics/writing/techniques/drawing-style-analysis.md"
+    ],
+    "art-technique": [
+      "topics/writing/techniques/drawing-style-analysis.md"
     ]
   },
   "entries": [
@@ -50,6 +65,18 @@
       "created": "2026-08-09",
       "updated": "2026-08-09",
       "summary": "日常开发中最常用的 Git 命令汇总"
+    },
+    {
+      "path": "topics/writing/techniques/drawing-style-analysis.md",
+      "title": "芮芮系列手绘漫画 - 画风分析笔记",
+      "tags": ["drawing", "style-analysis", "manga", "hand-drawn", "art-technique"],
+      "created": "2026-08-09",
+      "updated": "2026-08-09",
+      "summary": "分析黑白手绘漫画的技法特点、线条风格、人物塑造和场景表现",
+      "related_images": [
+        "topics/images/芮芮戴眼镜的大头照.jpg",
+        "topics/images/芮芮与弟弟跑累了坐在长椅上休息.jpg"
+      ]
     }
   ],
   "topics": {
@@ -66,14 +93,20 @@
       "entries": ["topics/tools/git-cheatsheet.md"]
     },
     "writing": {
-      "count": 0,
+      "count": 1,
       "subfolders": ["novels", "techniques"],
       "novels": { "count": 0, "entries": [] },
-      "techniques": { "count": 0, "entries": [] }
+      "techniques": {
+        "count": 1,
+        "entries": ["topics/writing/techniques/drawing-style-analysis.md"]
+      }
     },
     "images": {
-      "count": 0,
-      "entries": [],
+      "count": 2,
+      "entries": [
+        "topics/images/芮芮戴眼镜的大头照.jpg",
+        "topics/images/芮芮与弟弟跑累了坐在长椅上休息.jpg"
+      ],
       "note": "图片素材区，支持 png/jpg/jpeg/webp/gif 格式"
     },
     "notes": {
