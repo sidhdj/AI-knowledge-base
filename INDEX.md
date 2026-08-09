@@ -66,7 +66,6 @@ AI-knowledge-base/
 |---|---|---|
 | 芮芮戴眼镜的大头照.jpg | 单人画像 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
 | 芮芮与弟弟跑累了坐在长椅上休息.jpg | 双人场景 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
-| ai-generated-girl-reading-book.jpg | AI 生成示例 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
 
 ### 📝 topics/notes - 杂记 & 想法
 

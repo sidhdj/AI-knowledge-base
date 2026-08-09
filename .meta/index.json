@@ -102,13 +102,12 @@
       }
     },
     "images": {
-      "count": 3,
+      "count": 2,
       "entries": [
         "topics/images/芮芮戴眼镜的大头照.jpg",
-        "topics/images/芮芮与弟弟跑累了坐在长椅上休息.jpg",
-        "topics/images/ai-generated-girl-reading-book.jpg"
+        "topics/images/芮芮与弟弟跑累了坐在长椅上休息.jpg"
       ],
-      "note": "图片素材区，支持 png/jpg/jpeg/webp/gif 格式。包含 AI 生成示例"
+      "note": "图片素材区，存放用户手绘作品"
     },
     "notes": {
       "count": 0,
