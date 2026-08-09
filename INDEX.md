@@ -165,8 +165,8 @@ AI-knowledge-base/
 ---
 title: "文档标题"
 summary: "一句话摘要，便于快速理解内容"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["tag1", "tag2"]
 related: ["../relative/path/to/related.md"]
 source: "可选，信息来源链接"

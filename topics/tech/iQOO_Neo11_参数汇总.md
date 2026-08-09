@@ -1,8 +1,8 @@
 ---
 title: "iQOO Neo11 参数汇总"
 summary: "iQOO Neo11（V2520A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["tech", "smartphone", "iqoo", "specs", "hardware"]
 source: "https://www.vivo.com.cn/vivo/param/iqooneo11"
 confidence: "high"

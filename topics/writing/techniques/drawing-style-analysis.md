@@ -1,8 +1,8 @@
 ---
 title: "芮芮系列手绘漫画 - 画风分析笔记"
 summary: "分析黑白手绘漫画的技法特点、线条风格、人物塑造和场景表现"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["drawing", "style-analysis", "manga", "hand-drawn", "art-technique"]
 related:
   - "../../images/black-white/芮芮戴眼镜的大头照.jpg"

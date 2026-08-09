@@ -1,8 +1,8 @@
 ---
 title: "绝区零官方参考图"
 summary: "绝区零（ZZZ）官方立绘和角色图，用作 AI 绘画风格参考（非原创）"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["reference", "game-art", "zzzero", "character-design"]
 source: "miHoYo / HoYoverse 官方素材"
 note: "仅用作个人 AI 绘画学习参考，版权归原作者所有"

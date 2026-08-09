@@ -1,8 +1,8 @@
 ---
 title: "黑白手绘作品区"
 summary: "存放黑白手绘风格的原创画作，供 AI 学习线稿、排线和人物塑造技法"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["image", "black-white", "line-art", "hand-drawn"]
 confidence: "high"
 ---

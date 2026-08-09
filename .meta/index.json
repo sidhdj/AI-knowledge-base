@@ -79,32 +79,32 @@
       "path": "topics/ai-ml/rag-intro.md",
       "title": "RAG 检索增强生成入门指南",
       "tags": ["rag", "llm", "example"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "summary": "介绍 RAG 的基本概念、工作流程和实现方式"
     },
     {
       "path": "topics/programming/python-best-practices.md",
       "title": "Python 最佳实践速查",
       "tags": ["python", "programming", "example"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "summary": "Python 编程的常用最佳实践和代码规范"
     },
     {
       "path": "topics/tools/git-cheatsheet.md",
       "title": "Git 常用命令速查表",
       "tags": ["git", "tool"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "summary": "日常开发中最常用的 Git 命令汇总"
     },
     {
       "path": "topics/writing/techniques/drawing-style-analysis.md",
       "title": "芮芮系列手绘漫画 - 画风分析笔记",
       "tags": ["drawing", "style-analysis", "manga", "hand-drawn", "art-technique"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "summary": "分析黑白手绘漫画的技法特点、线条风格、人物塑造和场景表现",
       "related_images": [
         "topics/images/black-white/芮芮戴眼镜的大头照.jpg",
@@ -115,16 +115,16 @@
       "path": "topics/political/入党誓词.md",
       "title": "入党誓词",
       "tags": ["political", "party", "oath"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "summary": "中国共产党党员入党宣誓时宣读的誓词全文"
     },
     {
       "path": "topics/images/reference/zzzero/README.md",
       "title": "绝区零官方参考图",
       "tags": ["reference", "game-art", "zzzero", "character-design"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "summary": "绝区零官方立绘和角色图，用作 AI 绘画风格参考（非原创）",
       "source": "miHoYo / HoYoverse",
       "copyright_note": "仅作个人 AI 学习参考，版权归原作者所有",
@@ -139,8 +139,8 @@
       "path": "topics/tech/iQOO_Neo11_参数汇总.md",
       "title": "iQOO Neo11 参数汇总",
       "tags": ["tech", "smartphone", "iqoo", "specs", "hardware"],
-      "created": "2026-08-09",
-      "updated": "2026-08-09",
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
       "release_date": "2025-10",
       "summary": "iQOO Neo11（V2520A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
     }

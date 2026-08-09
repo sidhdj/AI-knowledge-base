@@ -1,8 +1,8 @@
 ---
 title: "图片素材存放区"
 summary: "存放供 AI 学习的图片素材，如插图、设计稿、参考图等"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["image", "visual", "source-material"]
 confidence: "high"
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Git 常用命令速查表"
 summary: "日常开发中 90% 场景会用到的 Git 命令汇总"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["git", "tool"]
 related:
   - "../programming/python-best-practices.md"

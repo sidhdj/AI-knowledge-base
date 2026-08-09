@@ -1,8 +1,8 @@
 ---
 title: "速查表/Cheatsheet 模板"
 summary: "用于快速查阅命令、API、快捷键等的速查表格式模板"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["cheatsheet", "template"]
 related: []
 confidence: "high"

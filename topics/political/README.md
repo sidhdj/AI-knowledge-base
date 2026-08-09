@@ -1,8 +1,8 @@
 ---
 title: "政治与党建资料区"
 summary: "存放政治、党建相关的文献、誓词、章程等资料"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["political", "source-material"]
 confidence: "high"
 ---

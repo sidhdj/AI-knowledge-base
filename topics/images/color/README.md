@@ -1,8 +1,8 @@
 ---
 title: "彩色作品区"
 summary: "存放彩色原创画作，供 AI 学习配色、色彩氛围和场景构图"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["image", "color", "illustration", "hand-drawn"]
 confidence: "high"
 ---

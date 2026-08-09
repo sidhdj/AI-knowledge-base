@@ -1,8 +1,8 @@
 ---
 title: "小说原文存放区"
 summary: "存放小说原文，供 AI 学习写作风格、叙事手法和人物塑造技巧"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["novel", "writing", "source-material"]
 confidence: "high"
 ---

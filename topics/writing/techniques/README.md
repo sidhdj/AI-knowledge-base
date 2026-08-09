@@ -1,8 +1,8 @@
 ---
 title: "写作技巧笔记区"
 summary: "存放 AI 分析总结的写作手法、风格规律和创作技巧"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["writing", "technique", "summary"]
 confidence: "medium"
 ---

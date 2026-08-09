@@ -1,8 +1,8 @@
 ---
 title: "Python 最佳实践速查"
 summary: "日常 Python 开发中最常用的代码规范、最佳实践和写法推荐"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["python", "programming", "example"]
 related:
   - "../tools/git-cheatsheet.md"

@@ -1,8 +1,8 @@
 ---
 title: "RAG 检索增强生成入门指南"
 summary: "介绍 RAG 的基本概念、工作流程、核心组件和简单实现方式"
-created: "2026-08-09"
-updated: "2026-08-09"
+document_created_at: "2026-08-09"
+document_updated_at: "2026-08-09"
 tags: ["rag", "llm", "example"]
 related:
   - "../programming/python-best-practices.md"
