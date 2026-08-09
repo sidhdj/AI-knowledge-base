@@ -111,6 +111,7 @@ AI-knowledge-base/
 | 标题 | 文件 | 标签 | 更新时间 |
 |---|---|---|---|
 | iQOO Neo11 参数汇总 | [iQOO_Neo11_参数汇总.md](topics/tech/iQOO_Neo11_参数汇总.md) | `tech`, `smartphone`, `iqoo`, `specs` | 2026-08-09 |
+| iQOO Neo8 参数汇总 | [iQOO_Neo8_参数汇总.md](topics/tech/iQOO_Neo8_参数汇总.md) | `tech`, `smartphone`, `iqoo`, `specs` | 2026-08-09 |
 
 ### topics/notes - 杂记 & 想法
 
@@ -142,10 +143,10 @@ AI-knowledge-base/
 | `game-art` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 | `zzzero` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 | `character-design` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
-| `tech` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
-| `smartphone` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
-| `iqoo` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
-| `specs` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
+| `tech` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/iQOO_Neo8_参数汇总.md) |
+| `smartphone` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/iQOO_Neo8_参数汇总.md) |
+| `iqoo` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/iQOO_Neo8_参数汇总.md) |
+| `specs` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/iQOO_Neo8_参数汇总.md) |
 
 ---
 
