@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 8,
+  "total_entries": 9,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -62,18 +62,22 @@
       "topics/images/reference/zzzero/README.md"
     ],
     "tech": [
+      "topics/tech/iQOO_15_参数汇总.md",
       "topics/tech/iQOO_Neo11_参数汇总.md",
       "topics/tech/iQOO_Neo8_参数汇总.md"
     ],
     "smartphone": [
+      "topics/tech/iQOO_15_参数汇总.md",
       "topics/tech/iQOO_Neo11_参数汇总.md",
       "topics/tech/iQOO_Neo8_参数汇总.md"
     ],
     "iqoo": [
+      "topics/tech/iQOO_15_参数汇总.md",
       "topics/tech/iQOO_Neo11_参数汇总.md",
       "topics/tech/iQOO_Neo8_参数汇总.md"
     ],
     "specs": [
+      "topics/tech/iQOO_15_参数汇总.md",
       "topics/tech/iQOO_Neo11_参数汇总.md",
       "topics/tech/iQOO_Neo8_参数汇总.md"
     ]
@@ -138,6 +142,15 @@
         "topics/images/reference/zzzero/南宫羽-立绘.PNG",
         "topics/images/reference/zzzero/南宫羽-满命.PNG"
       ]
+    },
+    {
+      "path": "topics/tech/iQOO_15_参数汇总.md",
+      "title": "iQOO 15 参数汇总",
+      "tags": ["tech", "smartphone", "iqoo", "specs", "hardware"],
+      "document_created_at": "2026-08-09",
+      "document_updated_at": "2026-08-09",
+      "release_date": "2025-10",
+      "summary": "iQOO 15（V2505A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
     },
     {
       "path": "topics/tech/iQOO_Neo11_参数汇总.md",
@@ -224,8 +237,8 @@
       "entries": ["topics/political/入党誓词.md"]
     },
     "tech": {
-      "count": 2,
-      "entries": ["topics/tech/iQOO_Neo11_参数汇总.md", "topics/tech/iQOO_Neo8_参数汇总.md"]
+      "count": 3,
+      "entries": ["topics/tech/iQOO_15_参数汇总.md", "topics/tech/iQOO_Neo11_参数汇总.md", "topics/tech/iQOO_Neo8_参数汇总.md"]
     },
     "notes": {
       "count": 0,
