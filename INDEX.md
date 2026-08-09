@@ -14,6 +14,10 @@ AI-knowledge-base/
 │   ├── ai-ml/                   ← 人工智能 & 机器学习
 │   ├── programming/             ← 编程语言 & 框架
 │   ├── tools/                   ← 开发工具 & 软件
+│   ├── writing/                 ← 写作相关
+│   │   ├── novels/              ← 小说原文（AI 学习素材）
+│   │   └── techniques/          ← 写作技巧笔记
+│   ├── images/                  ← 图片素材（AI 视觉学习素材）
 │   └── notes/                   ← 杂记 & 想法
 ├── references/                  ← 参考资料 & 外链
 ├── templates/                   ← 新建文档的模板
@@ -43,6 +47,20 @@ AI-knowledge-base/
 | 标题 | 文件 | 标签 | 更新时间 |
 |---|---|---|---|
 | Git 常用命令速查表 | [git-cheatsheet.md](topics/tools/git-cheatsheet.md) | `git`, `tool` | 2026-08-09 |
+
+### ✍️ topics/writing - 写作相关
+
+**novels/** - 小说原文（[查看文件夹](topics/writing/novels/)）
+
+暂无条目
+
+**techniques/** - 写作技巧笔记（[查看文件夹](topics/writing/techniques/)）
+
+暂无条目
+
+### 🖼️ topics/images - 图片素材（[查看文件夹](topics/images/)）
+
+暂无条目
 
 ### 📝 topics/notes - 杂记 & 想法
 

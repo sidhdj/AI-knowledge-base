@@ -48,6 +48,10 @@ AI-knowledge-base/
 │   ├── ai-ml/                   ← AI & 机器学习
 │   ├── programming/             ← 编程语言 & 框架
 │   ├── tools/                   ← 开发工具
+│   ├── writing/                 ← 写作相关
+│   │   ├── novels/              ← 小说原文（AI 学习素材）
+│   │   └── techniques/          ← 写作技巧笔记
+│   ├── images/                  ← 图片素材（AI 视觉学习素材）
 │   └── notes/                   ← 杂记
 ├── references/                  ← 参考资料
 ├── templates/                   ← 新建条目模板

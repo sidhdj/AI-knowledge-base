@@ -65,6 +65,17 @@
       "count": 1,
       "entries": ["topics/tools/git-cheatsheet.md"]
     },
+    "writing": {
+      "count": 0,
+      "subfolders": ["novels", "techniques"],
+      "novels": { "count": 0, "entries": [] },
+      "techniques": { "count": 0, "entries": [] }
+    },
+    "images": {
+      "count": 0,
+      "entries": [],
+      "note": "图片素材区，支持 png/jpg/jpeg/webp/gif 格式"
+    },
     "notes": {
       "count": 0,
       "entries": []
