@@ -57,6 +57,7 @@ AI-knowledge-base/
 │   │   └── reference/           ← 外部参考图（非原创，风格学习用）
 │   │       └── zzzero/          ←   绝区零 官方立绘
 │   ├── political/               ← 政治 & 党建
+│   ├── tech/                    ← 科技 & 硬件参数
 │   └── notes/                   ← 杂记
 ├── inbox/                       ← 临时缓存区（文件中转站）
 ├── references/                  ← 参考资料

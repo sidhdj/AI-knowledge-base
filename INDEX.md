@@ -23,6 +23,7 @@ AI-knowledge-base/
 │   │   └── reference/           ← 外部参考图（非原创，风格学习用）
 │   │       └── zzzero/          ←   绝区零 官方角色立绘
 │   ├── political/               ← 政治 & 党建
+│   ├── tech/                    ← 科技 & 硬件参数
 │   └── notes/                   ← 杂记 & 想法
 ├── inbox/                       ← 临时缓存区（文件中转站）
 ├── references/                  ← 参考资料 & 外链
@@ -105,6 +106,12 @@ AI-knowledge-base/
 |---|---|---|---|
 | 入党誓词 | [入党誓词.md](topics/political/入党誓词.md) | `political`, `party` | 2026-08-09 |
 
+### topics/tech - 科技 & 硬件参数
+
+| 标题 | 文件 | 标签 | 更新时间 |
+|---|---|---|---|
+| iQOO Neo11 参数汇总 | [iQOO_Neo11_参数汇总.md](topics/tech/iQOO_Neo11_参数汇总.md) | `tech`, `smartphone`, `iqoo`, `specs` | 2026-08-09 |
+
 ### topics/notes - 杂记 & 想法
 
 暂无条目
@@ -135,6 +142,10 @@ AI-knowledge-base/
 | `game-art` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 | `zzzero` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 | `character-design` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
+| `tech` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
+| `smartphone` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
+| `iqoo` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
+| `specs` | [iQOO Neo11 参数汇总](topics/tech/iQOO_Neo11_参数汇总.md) |
 
 ---
 
