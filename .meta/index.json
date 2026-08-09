@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 4,
+  "total_entries": 5,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -39,6 +39,15 @@
     ],
     "art-technique": [
       "topics/writing/techniques/drawing-style-analysis.md"
+    ],
+    "political": [
+      "topics/political/入党誓词.md"
+    ],
+    "party": [
+      "topics/political/入党誓词.md"
+    ],
+    "oath": [
+      "topics/political/入党誓词.md"
     ]
   },
   "entries": [
@@ -77,6 +86,14 @@
         "topics/images/芮芮戴眼镜的大头照.jpg",
         "topics/images/芮芮与弟弟跑累了坐在长椅上休息.jpg"
       ]
+    },
+    {
+      "path": "topics/political/入党誓词.md",
+      "title": "入党誓词",
+      "tags": ["political", "party", "oath"],
+      "created": "2026-08-09",
+      "updated": "2026-08-09",
+      "summary": "中国共产党党员入党宣誓时宣读的誓词全文"
     }
   ],
   "topics": {
@@ -108,6 +125,10 @@
         "topics/images/芮芮与弟弟跑累了坐在长椅上休息.jpg"
       ],
       "note": "图片素材区，存放用户手绘作品"
+    },
+    "political": {
+      "count": 1,
+      "entries": ["topics/political/入党誓词.md"]
     },
     "notes": {
       "count": 0,

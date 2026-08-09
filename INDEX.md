@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 目录结构总览
+## 目录结构总览
 
 ```
 AI-knowledge-base/
@@ -18,6 +18,7 @@ AI-knowledge-base/
 │   │   ├── novels/              ← 小说原文（AI 学习素材）
 │   │   └── techniques/          ← 写作技巧笔记
 │   ├── images/                  ← 图片素材（AI 视觉学习素材）
+│   ├── political/               ← 政治 & 党建
 │   └── notes/                   ← 杂记 & 想法
 ├── references/                  ← 参考资料 & 外链
 ├── templates/                   ← 新建文档的模板
@@ -28,27 +29,27 @@ AI-knowledge-base/
 
 ---
 
-## 📖 知识条目速览
+## 知识条目速览
 
-### 🤖 topics/ai-ml - 人工智能 & 机器学习
+### topics/ai-ml - 人工智能 & 机器学习
 
 | 标题 | 文件 | 标签 | 更新时间 |
 |---|---|---|---|
 | RAG 检索增强生成入门指南 | [rag-intro.md](topics/ai-ml/rag-intro.md) | `rag`, `llm`, `example` | 2026-08-09 |
 
-### 💻 topics/programming - 编程语言 & 框架
+### topics/programming - 编程语言 & 框架
 
 | 标题 | 文件 | 标签 | 更新时间 |
 |---|---|---|---|
 | Python 最佳实践速查 | [python-best-practices.md](topics/programming/python-best-practices.md) | `python`, `programming`, `example` | 2026-08-09 |
 
-### 🛠️ topics/tools - 开发工具 & 软件
+### topics/tools - 开发工具 & 软件
 
 | 标题 | 文件 | 标签 | 更新时间 |
 |---|---|---|---|
 | Git 常用命令速查表 | [git-cheatsheet.md](topics/tools/git-cheatsheet.md) | `git`, `tool` | 2026-08-09 |
 
-### ✍️ topics/writing - 写作相关
+### topics/writing - 写作相关
 
 **novels/** - 小说原文（[查看文件夹](topics/writing/novels/)）
 
@@ -60,20 +61,26 @@ AI-knowledge-base/
 |---|---|---|---|
 | 芮芮系列手绘漫画 - 画风分析笔记 | [drawing-style-analysis.md](topics/writing/techniques/drawing-style-analysis.md) | `drawing`, `style-analysis`, `manga` | 2026-08-09 |
 
-### 🖼️ topics/images - 图片素材（[查看文件夹](topics/images/)）
+### topics/images - 图片素材（[查看文件夹](topics/images/)）
 
 | 文件名 | 类型 | 关联笔记 |
 |---|---|---|
 | 芮芮戴眼镜的大头照.jpg | 单人画像 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
 | 芮芮与弟弟跑累了坐在长椅上休息.jpg | 双人场景 | [画风分析](topics/writing/techniques/drawing-style-analysis.md) |
 
-### 📝 topics/notes - 杂记 & 想法
+### topics/political - 政治 & 党建
+
+| 标题 | 文件 | 标签 | 更新时间 |
+|---|---|---|---|
+| 入党誓词 | [入党誓词.md](topics/political/入党誓词.md) | `political`, `party` | 2026-08-09 |
+
+### topics/notes - 杂记 & 想法
 
 暂无条目
 
 ---
 
-## 🏷️ 标签索引
+## 标签索引
 
 按标签快速查找相关知识：
 
@@ -91,10 +98,12 @@ AI-knowledge-base/
 | `manga` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
 | `hand-drawn` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
 | `art-technique` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
+| `political` | [入党誓词](topics/political/入党誓词.md) |
+| `party` | [入党誓词](topics/political/入党誓词.md) |
 
 ---
 
-## 🤖 AI 读取指南
+## AI 读取指南
 
 ### 推荐阅读顺序
 
@@ -133,7 +142,7 @@ confidence: "optional: high/medium/low，信息可信度"
 
 ---
 
-## 📝 添加新知识
+## 添加新知识
 
 请使用 [templates/entry-template.md](templates/entry-template.md) 模板创建新条目，并：
 1. 选择合适的 topic 目录存放
