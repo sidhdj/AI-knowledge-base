@@ -169,7 +169,7 @@ confidence: "high"
 
 | 项目 | 参数 |
 |---|---|
-| 操作系统 | 基于 Android 13.0 开发的 OriginOS 6（可升级） |
+| 操作系统 | 基于 Android 16 开发的 OriginOS 6（出厂基于 Android 13.0，可升级） |
 | Jovi | 支持语音、智慧视觉等功能 |
 
 ---
