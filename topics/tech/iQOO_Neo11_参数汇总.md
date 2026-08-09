@@ -171,7 +171,7 @@ confidence: "high"
 | 充入能量 | 累计时间 |
 |---|---|
 | 10 Wh | 16 min |
-| 20.01 Wh | 34 min |
+| 20 Wh | 34 min |
 | 30 Wh | 53 min |
 | 34.69 Wh（满电） | 73 min |
 
