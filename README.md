@@ -52,8 +52,10 @@ AI-knowledge-base/
 │   │   ├── novels/              ← 小说原文（AI 学习素材）
 │   │   └── techniques/          ← 写作技巧笔记
 │   ├── images/                  ← 图片素材（AI 视觉学习素材）
-│   │   ├── black-white/         ← 黑白手绘作品
-│   │   └── color/               ← 彩色作品
+│   │   ├── black-white/         ← 黑白手绘作品（原创）
+│   │   ├── color/               ← 彩色作品（原创）
+│   │   └── reference/           ← 外部参考图（非原创，风格学习用）
+│   │       └── zzzero/          ←   绝区零 官方立绘
 │   ├── political/               ← 政治 & 党建
 │   └── notes/                   ← 杂记
 ├── inbox/                       ← 临时缓存区（文件中转站）

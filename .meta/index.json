@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 5,
+  "total_entries": 6,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -48,6 +48,18 @@
     ],
     "oath": [
       "topics/political/入党誓词.md"
+    ],
+    "reference": [
+      "topics/images/reference/zzzero/README.md"
+    ],
+    "game-art": [
+      "topics/images/reference/zzzero/README.md"
+    ],
+    "zzzero": [
+      "topics/images/reference/zzzero/README.md"
+    ],
+    "character-design": [
+      "topics/images/reference/zzzero/README.md"
     ]
   },
   "entries": [
@@ -94,6 +106,22 @@
       "created": "2026-08-09",
       "updated": "2026-08-09",
       "summary": "中国共产党党员入党宣誓时宣读的誓词全文"
+    },
+    {
+      "path": "topics/images/reference/zzzero/README.md",
+      "title": "绝区零官方参考图",
+      "tags": ["reference", "game-art", "zzzero", "character-design"],
+      "created": "2026-08-09",
+      "updated": "2026-08-09",
+      "summary": "绝区零官方立绘和角色图，用作 AI 绘画风格参考（非原创）",
+      "source": "miHoYo / HoYoverse",
+      "copyright_note": "仅作个人 AI 学习参考，版权归原作者所有",
+      "files": [
+        "topics/images/reference/zzzero/千夏-立绘.PNG",
+        "topics/images/reference/zzzero/千夏-满命.png",
+        "topics/images/reference/zzzero/南宫羽-立绘.PNG",
+        "topics/images/reference/zzzero/南宫羽-满命.PNG"
+      ]
     }
   ],
   "topics": {
@@ -119,21 +147,36 @@
       }
     },
     "images": {
-      "subfolders": ["black-white", "color"],
+      "subfolders": ["black-white", "color", "reference"],
       "black-white": {
         "count": 2,
         "entries": [
           "topics/images/black-white/芮芮戴眼镜的大头照.jpg",
           "topics/images/black-white/芮芮与弟弟跑累了坐在长椅上休息.jpg"
         ],
-        "note": "黑白手绘作品区"
+        "note": "黑白手绘作品区（原创）"
       },
       "color": {
         "count": 1,
         "entries": [
           "topics/images/color/蓝黄色城市.jpg"
         ],
-        "note": "彩色作品区"
+        "note": "彩色作品区（原创）"
+      },
+      "reference": {
+        "note": "外部参考图（非原创，版权归原作者）",
+        "subfolders": ["zzzero"],
+        "zzzero": {
+          "count": 4,
+          "readme": "topics/images/reference/zzzero/README.md",
+          "entries": [
+            "topics/images/reference/zzzero/千夏-立绘.PNG",
+            "topics/images/reference/zzzero/千夏-满命.png",
+            "topics/images/reference/zzzero/南宫羽-立绘.PNG",
+            "topics/images/reference/zzzero/南宫羽-满命.PNG"
+          ],
+          "note": "绝区零 官方角色立绘"
+        }
       }
     },
     "political": {

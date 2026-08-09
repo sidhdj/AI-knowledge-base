@@ -18,8 +18,10 @@ AI-knowledge-base/
 │   │   ├── novels/              ← 小说原文（AI 学习素材）
 │   │   └── techniques/          ← 写作技巧笔记
 │   ├── images/                  ← 图片素材（AI 视觉学习素材）
-│   │   ├── black-white/         ← 黑白手绘作品
-│   │   └── color/               ← 彩色作品
+│   │   ├── black-white/         ← 黑白手绘作品（原创）
+│   │   ├── color/               ← 彩色作品（原创）
+│   │   └── reference/           ← 外部参考图（非原创，风格学习用）
+│   │       └── zzzero/          ←   绝区零 官方角色立绘
 │   ├── political/               ← 政治 & 党建
 │   └── notes/                   ← 杂记 & 想法
 ├── inbox/                       ← 临时缓存区（文件中转站）
@@ -81,6 +83,19 @@ AI-knowledge-base/
 |---|---|---|
 | 蓝黄色城市.jpg | 城市风景 | 阳台视角，蓝黄渐变配色的城市天际线 |
 
+**reference/** - 外部参考图（非原创，版权归原作者）
+
+按作品分子文件夹存放，主要用作 AI 绘画风格学习参考。
+
+- `zzzero/`：绝区零 官方角色立绘（[查看](topics/images/reference/zzzero/)，[说明](topics/images/reference/zzzero/README.md)）
+
+| 文件名 | 角色 | 类型 |
+|---|---|---|
+| 千夏-立绘.PNG | 千夏 | 基础立绘 |
+| 千夏-满命.png | 千夏 | 满命高阶立绘 |
+| 南宫羽-立绘.PNG | 南宫羽 | 基础立绘 |
+| 南宫羽-满命.PNG | 南宫羽 | 满命高阶立绘 |
+
 ### topics/political - 政治 & 党建
 
 | 标题 | 文件 | 标签 | 更新时间 |
@@ -113,6 +128,10 @@ AI-knowledge-base/
 | `art-technique` | [芮芮系列手绘漫画 - 画风分析笔记](topics/writing/techniques/drawing-style-analysis.md) |
 | `political` | [入党誓词](topics/political/入党誓词.md) |
 | `party` | [入党誓词](topics/political/入党誓词.md) |
+| `reference` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
+| `game-art` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
+| `zzzero` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
+| `character-design` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 
 ---
 
