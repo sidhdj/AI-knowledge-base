@@ -54,6 +54,7 @@ AI-knowledge-base/
 │   ├── images/                  ← 图片素材（AI 视觉学习素材）
 │   ├── political/               ← 政治 & 党建
 │   └── notes/                   ← 杂记
+├── inbox/                       ← 临时缓存区（文件中转站）
 ├── references/                  ← 参考资料
 ├── templates/                   ← 新建条目模板
 │   ├── entry-template.md

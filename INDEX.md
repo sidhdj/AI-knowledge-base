@@ -20,6 +20,7 @@ AI-knowledge-base/
 │   ├── images/                  ← 图片素材（AI 视觉学习素材）
 │   ├── political/               ← 政治 & 党建
 │   └── notes/                   ← 杂记 & 想法
+├── inbox/                       ← 临时缓存区（文件中转站）
 ├── references/                  ← 参考资料 & 外链
 ├── templates/                   ← 新建文档的模板
 └── .meta/                       ← 元数据 & 机器配置（给 AI 看的）
