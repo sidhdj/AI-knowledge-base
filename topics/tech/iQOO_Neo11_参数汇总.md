@@ -202,7 +202,7 @@ confidence: "high"
 
 ### 极客湾
 
-- 来源：[极客湾](https://www.geekbay.tv/)
+- 来源：[极客湾 5G 续航排行榜 5.0](https://www.geekbay.tv/)
 - 测试对象：自购零售机
 
 #### 5G 续航排行榜
