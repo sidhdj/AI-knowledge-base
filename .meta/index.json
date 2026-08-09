@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-09",
+  "total_entries": 3,
+  "tags_index": {
+    "example": [
+      "topics/ai-ml/rag-intro.md",
+      "topics/programming/python-best-practices.md"
+    ],
+    "rag": [
+      "topics/ai-ml/rag-intro.md"
+    ],
+    "llm": [
+      "topics/ai-ml/rag-intro.md"
+    ],
+    "python": [
+      "topics/programming/python-best-practices.md"
+    ],
+    "programming": [
+      "topics/programming/python-best-practices.md"
+    ],
+    "tool": [
+      "topics/tools/git-cheatsheet.md"
+    ],
+    "git": [
+      "topics/tools/git-cheatsheet.md"
+    ]
+  },
+  "entries": [
+    {
+      "path": "topics/ai-ml/rag-intro.md",
+      "title": "RAG 检索增强生成入门指南",
+      "tags": ["rag", "llm", "example"],
+      "created": "2026-08-09",
+      "updated": "2026-08-09",
+      "summary": "介绍 RAG 的基本概念、工作流程和实现方式"
+    },
+    {
+      "path": "topics/programming/python-best-practices.md",
+      "title": "Python 最佳实践速查",
+      "tags": ["python", "programming", "example"],
+      "created": "2026-08-09",
+      "updated": "2026-08-09",
+      "summary": "Python 编程的常用最佳实践和代码规范"
+    },
+    {
+      "path": "topics/tools/git-cheatsheet.md",
+      "title": "Git 常用命令速查表",
+      "tags": ["git", "tool"],
+      "created": "2026-08-09",
+      "updated": "2026-08-09",
+      "summary": "日常开发中最常用的 Git 命令汇总"
+    }
+  ],
+  "topics": {
+    "ai-ml": {
+      "count": 1,
+      "entries": ["topics/ai-ml/rag-intro.md"]
+    },
+    "programming": {
+      "count": 1,
+      "entries": ["topics/programming/python-best-practices.md"]
+    },
+    "tools": {
+      "count": 1,
+      "entries": ["topics/tools/git-cheatsheet.md"]
+    },
+    "notes": {
+      "count": 0,
+      "entries": []
+    }
+  }
+}

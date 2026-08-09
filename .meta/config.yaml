@@ -1,0 +1,64 @@
+# AI Knowledge Base Configuration
+# This file is designed for AI agents to parse and understand the knowledge base structure.
+
+version: "1.0"
+name: "AI-knowledge-base"
+description: "Personal knowledge base optimized for AI consumption"
+
+# Directory structure mapping
+structure:
+  root: "./"
+  topics:
+    path: "./topics"
+    description: "Main knowledge content organized by topics"
+    categories:
+      - name: "programming"
+        path: "./topics/programming"
+        description: "Programming languages, frameworks, and best practices"
+      - name: "ai-ml"
+        path: "./topics/ai-ml"
+        description: "Artificial Intelligence and Machine Learning knowledge"
+      - name: "tools"
+        path: "./topics/tools"
+        description: "Development tools, IDEs, CLI utilities"
+      - name: "notes"
+        path: "./topics/notes"
+        description: "General notes, ideas, and quick references"
+  references:
+    path: "./references"
+    description: "Reference materials, cheat sheets, external links"
+  templates:
+    path: "./templates"
+    description: "Templates for creating new knowledge entries"
+
+# Knowledge entry schema (front matter format)
+entry_schema:
+  required_fields:
+    - title
+    - created
+    - updated
+    - tags
+  optional_fields:
+    - summary
+    - source
+    - author
+    - related
+    - confidence
+  format: "yaml-front-matter"
+
+# Index files
+index_files:
+  - path: "./INDEX.md"
+    type: "main-index"
+    description: "Human-readable table of contents"
+  - path: "./.meta/index.json"
+    type: "machine-index"
+    description: "Machine-readable index for AI quick parsing"
+
+# AI reading instructions
+ai_instructions:
+  - "Always read INDEX.md first to understand the knowledge base layout"
+  - "For quick lookup, read .meta/index.json which contains structured metadata"
+  - "When reading entries, parse the YAML front matter for context before the content"
+  - "Use 'related' field in front matter to find connected knowledge"
+  - "Use 'tags' for topic clustering and semantic search"
