@@ -1,8 +1,21 @@
-# 骁龙 8 Elite 移动平台（Snapdragon 8 Elite）参数与特性汇总
+---
+title: "骁龙 8 Elite（Snapdragon 8 Elite）参数与特性汇总"
+summary: "高通骁龙8至尊版移动平台官方参数，SM8750，Qualcomm Oryon CPU，Adreno GPU切片架构，Hexagon NPU，Snapdragon X80 5G，FastConnect 7900"
+document_created_at: "2026-08-10"
+document_updated_at: "2026-08-10"
+tags: ["tech", "chip", "qualcomm", "snapdragon", "hardware", "specs"]
+source: "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-mobile-platform"
+author: "高通官网英文翻译（用户提供）"
+confidence: "high"
+---
+
+# 骁龙 8 Elite（Snapdragon 8 Elite）参数与特性汇总
 
 > 设备代号 / 型号：**SM8750**
 >
-> 本文译自高通官网产品页 Snapdragon 8 Elite Mobile Platform，所有数据与术语均严格保留官方原文含义。
+> 国内常见名称：**骁龙 8 至尊版**、第一代骁龙 8 至尊版移动平台
+>
+> 本文译自高通官网产品页 *Snapdragon 8 Elite Mobile Platform*，所有数据与术语均严格保留官方原文含义。官网所有百分比对比，均相对于**上一代旗舰平台**（即 Snapdragon 8 Gen 3）。*All comparisons made to previous generation.*
 
 ---
 
@@ -14,10 +27,10 @@
 - 整个 SoC 整体功耗降低 **27%**
 - **Hexagon NPU** 最快一代：AI 性能 **+45%**，AI 每瓦性能 **+45%**
 - 多模态生成式 AI + 更长 Token 输入，全部精度 INT4 / INT8 / INT16 / FP16
-- **Snapdragon X80 5G**：集成 Modem-RF，峰值下载 **10 Gbps**，4×6 MIMO
+- **Snapdragon X80 5G**：集成 Modem-RF，峰值下载 **10 Gbps**，4×6 MIMO，定位精度提升 **30%**
 - **FastConnect 7900**：AI 优化 Wi-Fi 7，能效 **+40%**，集成 Wi-Fi 测距 + 蓝牙 + UWB
 - **Spectra AI ISP**：4K 无限语义分割、视频物体擦除、AI 重打光、C2PA 真图签章
-- **Snapdragon Elite Gaming**：UE5 Nanite、硬件光追 **+35%**、GSR 2.0 超分、AFME 2.0 插帧
+- **Snapdragon Elite Gaming**：UE5 Nanite、硬件光追 **+35%**、GSR 2.0 超分（1ms 低延迟）、AFME 2.0 插帧
 
 ---
 
@@ -68,8 +81,6 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 
 - **Snapdragon X80 5G Modem-RF System**：搭载专用 AI 张量加速器（dedicated AI tensor accelerator），业界首个 **4×6 MIMO** 方案，更多场景下实现多千兆 5G 速度，定位精度提升 **30%**
 - **Qualcomm® FastConnect™ 7900 Mobile Connectivity System**：能效提升 **40%**，业界首个集成 **Wi-Fi 测距（Wi-Fi ranging）**、**Bluetooth® wireless technology**、**UWB proximity technologies（超宽带近距技术）**，支持物体追踪、楼宇门禁等
-
-> 注：官网所有百分比对比，均相对于**上一代旗舰平台**（即 Snapdragon 8 Gen 3）。All comparisons made to previous generation.
 
 ---
 
@@ -125,6 +136,7 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 | Qualcomm® 5G AI Processor Gen 2 | 搭载**专用张量硬件加速器（dedicated tensor hardware accelerator）** |
 | Qualcomm 5G AI Suite Gen 3 | 支持 |
 | 6Rx（6 接收天线） | 带来突破性连接性能 |
+| 4×6 MIMO + 30% 定位精度提升 | 业界首个 4×6 MIMO 方案；AI-based GNSS Location Gen 3 提升定位精度 |
 
 ### Wi-Fi / 连接：Qualcomm® FastConnect 7900
 
@@ -132,7 +144,7 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 |---|---|
 | 相比上一代功耗节省 | **40%** |
 | Wi-Fi 7 | AI-optimized，专为极致能效打造 |
-| 集成技术 | 业界首个集成 **Wi-Fi ranging（Wi-Fi 测距）**、**Bluetooth**、**UWB（超宽带）** |
+| 集成技术 | 业界首个集成 **Wi-Fi ranging（Wi-Fi 测距）**、**Bluetooth**、**UWB（超宽带）**，支持物体追踪、楼宇门禁控制等场景 |
 
 ### 定位：Snapdragon Location Suite
 
@@ -157,7 +169,7 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 
 | 英文原文 | 中文译法 |
 |---|---|
-| Snapdragon 8 Elite Mobile Platform | 骁龙 8 Elite 移动平台 |
+| Snapdragon 8 Elite Mobile Platform | 骁龙 8 Elite 移动平台（国内俗称骁龙 8 至尊版） |
 | Qualcomm Oryon™ CPU | 高通 Oryon™ CPU（保留品牌名） |
 | Shared Data Cache | 共享数据缓存 |
 | Sliced Architecture (GPU) | 切片架构（GPU） |
@@ -188,6 +200,18 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 
 ---
 
+## 代表机型（搭载本平台的已知设备）
+
+| 机型 | 型号 | 备注 |
+|---|---|---|
+| iQOO 15 | V2505A | 骁龙 8 Elite Gen5（实际为 SM8750 第五代骁龙 8 至尊版） |
+| iQOO Neo11 | V2520A | 骁龙 8 Elite |
+
+> 注：部分厂商命名习惯差异，"骁龙 8 Elite Gen5" / "第五代骁龙 8 至尊版" 本质均为 Snapdragon 8 Elite（SM8750）系列的不同 SKU。
+
+---
+
 ## 信息来源
 
 - 高通官网产品页：https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-mobile-platform
+- 产品简报 PDF：Snapdragon 8 Elite SM8750 3 AB Product Brief（同官网页面）

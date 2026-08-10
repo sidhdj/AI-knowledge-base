@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 9,
+  "total_entries": 10,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -64,7 +64,8 @@
     "tech": [
       "topics/tech/iQOO_15_参数汇总.md",
       "topics/tech/iQOO_Neo11_参数汇总.md",
-      "topics/tech/iQOO_Neo8_参数汇总.md"
+      "topics/tech/iQOO_Neo8_参数汇总.md",
+      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
     ],
     "smartphone": [
       "topics/tech/iQOO_15_参数汇总.md",
@@ -79,7 +80,17 @@
     "specs": [
       "topics/tech/iQOO_15_参数汇总.md",
       "topics/tech/iQOO_Neo11_参数汇总.md",
-      "topics/tech/iQOO_Neo8_参数汇总.md"
+      "topics/tech/iQOO_Neo8_参数汇总.md",
+      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+    ],
+    "chip": [
+      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+    ],
+    "qualcomm": [
+      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+    ],
+    "snapdragon": [
+      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
     ]
   },
   "entries": [
@@ -172,6 +183,17 @@
       "document_updated_at": "2026-08-09",
       "release_date": "2023-05",
       "summary": "iQOO Neo8（V2301A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
+    },
+    {
+      "path": "topics/tech/Snapdragon_8_Elite_参数汇总.md",
+      "title": "骁龙 8 Elite（Snapdragon 8 Elite）参数与特性汇总",
+      "tags": ["tech", "chip", "qualcomm", "snapdragon", "hardware", "specs"],
+      "document_created_at": "2026-08-10",
+      "document_updated_at": "2026-08-10",
+      "release_date": "2024-10",
+      "summary": "高通骁龙8至尊版移动平台官方参数，SM8750，Qualcomm Oryon CPU，Adreno GPU切片架构，Hexagon NPU，Snapdragon X80 5G，FastConnect 7900",
+      "source": "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-mobile-platform",
+      "model": "SM8750"
     }
   ],
   "topics": {
@@ -237,8 +259,8 @@
       "entries": ["topics/political/入党誓词.md"]
     },
     "tech": {
-      "count": 3,
-      "entries": ["topics/tech/iQOO_15_参数汇总.md", "topics/tech/iQOO_Neo11_参数汇总.md", "topics/tech/iQOO_Neo8_参数汇总.md"]
+      "count": 4,
+      "entries": ["topics/tech/iQOO_15_参数汇总.md", "topics/tech/iQOO_Neo11_参数汇总.md", "topics/tech/iQOO_Neo8_参数汇总.md", "topics/tech/Snapdragon_8_Elite_参数汇总.md"]
     },
     "notes": {
       "count": 0,
