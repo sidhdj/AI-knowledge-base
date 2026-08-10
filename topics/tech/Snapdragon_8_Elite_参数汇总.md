@@ -251,6 +251,15 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 |---|---|
 | 骁龙 8 Elite | **166.1** |
 
+### 极客湾 Geekbench 6 排行
+
+- 来源：[极客湾](https://www.geekbay.tv/)
+
+| 测试项 | 骁龙 8 Elite |
+|---|---|
+| 单核 | **3237** |
+| 多核 | **10244** |
+
 ---
 
 ## 代表机型（搭载本平台的已知设备）
