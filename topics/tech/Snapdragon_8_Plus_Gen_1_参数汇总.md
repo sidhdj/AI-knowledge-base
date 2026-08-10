@@ -279,7 +279,7 @@ Snapdragon Connect 技术让你随时随地更快、更久地连接。第 4 代 
 
 | 机型 | 型号 | 备注 |
 |---|---|---|
-| [iQOO Neo8](iQOO_Neo8_参数汇总.md) | V2301A | 第一代骁龙 8+（3 GHz CPU 版本） |
+| [iQOO Neo8](iQOO_Neo8_参数汇总.md) | V2301A | **降频版**，Prime 核心最高 3.0GHz（标准版 3.2GHz） |
 
 ---
 
