@@ -202,6 +202,13 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 
 ---
 
+## 信息来源
+
+- 高通官网产品页：https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-mobile-platform
+- 产品简报 PDF：Snapdragon 8 Elite SM8750 3 AB Product Brief（同官网页面）
+
+---
+
 ## 第三方性能评分
 
 ### 极客湾 手机/平板芯片综合性能排行
@@ -251,10 +258,3 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 | 机型 | 型号 | 备注 |
 |---|---|---|
 | [iQOO Neo11](iQOO_Neo11_参数汇总.md) | V2520A | 骁龙 8 Elite |
-
----
-
-## 信息来源
-
-- 高通官网产品页：https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-mobile-platform
-- 产品简报 PDF：Snapdragon 8 Elite SM8750 3 AB Product Brief（同官网页面）
