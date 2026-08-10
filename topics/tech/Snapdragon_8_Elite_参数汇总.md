@@ -214,6 +214,16 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 |---|---|
 | 骁龙 8 Elite | **321.3** |
 
+### 极客湾 移动端芯片 CPU 能效排行
+
+- 来源：[极客湾](https://www.geekbay.tv/)
+- 评分规则：取 3W-5W 功耗段的多核性能计算能效
+- 基准：以骁龙 865 为基准（定为 100 分）
+
+| 芯片 | CPU 能效评分 |
+|---|---|
+| 骁龙 8 Elite | **166.1** |
+
 ---
 
 ## 代表机型（搭载本平台的已知设备）
