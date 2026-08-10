@@ -224,6 +224,16 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 |---|---|
 | 骁龙 8 Elite | **249.4** |
 
+### 极客湾 手机/平板芯片 GPU 性能排行
+
+- 来源：[极客湾](https://www.geekbay.tv/)
+- 评分规则：峰值性能权重 50%，持续性能权重 50%，结果受过热降频影响
+- 基准：以骁龙 865 为基准（定为 100 分）
+
+| 芯片 | GPU 性能评分 |
+|---|---|
+| 骁龙 8 Elite | **489.2** |
+
 ### 极客湾 移动端芯片 CPU 能效排行
 
 - 来源：[极客湾](https://www.geekbay.tv/)
