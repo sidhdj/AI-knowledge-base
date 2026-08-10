@@ -1,5 +1,5 @@
 ---
-title: "骁龙 8+ Gen 1（Snapdragon 8+ Gen 1）参数与特性汇总"
+title: "第一代骁龙 8+ 移动平台（Snapdragon 8+ Gen 1）参数与特性汇总"
 summary: "高通骁龙8+ Gen 1移动平台官方参数，SM8475，台积电4nm，Kryo CPU，Adreno 730 GPU，第7代AI Engine，Snapdragon X65 5G，FastConnect 6900"
 document_created_at: "2026-08-10"
 document_updated_at: "2026-08-10"
@@ -11,8 +11,12 @@ related:
   - "iQOO_Neo8_参数汇总.md"
 ---
 
-# 骁龙 8+ Gen 1 移动平台（Snapdragon 8+ Gen 1）参数与特性汇总
+# 第一代骁龙 8+ 移动平台（Snapdragon 8+ Gen 1）参数与特性汇总
 
+> 官方名称：**Snapdragon 8+ Gen 1 Mobile Platform**
+>
+> 国内常见名称：**第一代骁龙 8+**
+>
 > 设备代号 / 型号：**SM8475**
 >
 > 本文译自高通官网产品页及官方 Product Brief，所有数据与术语均严格保留官方原文含义。
