@@ -206,10 +206,7 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 
 | 机型 | 型号 | 备注 |
 |---|---|---|
-| iQOO 15 | V2505A | 骁龙 8 Elite Gen5（实际为 SM8750 第五代骁龙 8 至尊版） |
 | [iQOO Neo11](iQOO_Neo11_参数汇总.md) | V2520A | 骁龙 8 Elite |
-
-> 注：部分厂商命名习惯差异，"骁龙 8 Elite Gen5" / "第五代骁龙 8 至尊版" 本质均为 Snapdragon 8 Elite（SM8750）系列的不同 SKU。
 
 ---
 
