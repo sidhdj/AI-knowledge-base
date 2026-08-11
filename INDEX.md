@@ -120,6 +120,7 @@ AI-knowledge-base/
 
 | 标题 | 文件 | 标签 | 更新时间 |
 |---|---|---|---|
+| 第五代骁龙 8 至尊版 参数汇总 | [Snapdragon_8_Elite_Gen_5_参数汇总.md](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) | `tech`, `chip`, `qualcomm`, `snapdragon`, `specs`, `hardware` | 2026-08-11 |
 | 骁龙 8 Elite 参数汇总 | [Snapdragon_8_Elite_参数汇总.md](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) | `tech`, `chip`, `qualcomm`, `snapdragon`, `specs` | 2026-08-10 |
 | 第一代骁龙 8+ 参数汇总 | [Snapdragon_8_Plus_Gen_1_参数汇总.md](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) | `tech`, `chip`, `qualcomm`, `snapdragon`, `specs` | 2026-08-10 |
 
@@ -153,13 +154,14 @@ AI-knowledge-base/
 | `game-art` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 | `zzzero` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
 | `character-design` | [绝区零官方参考图](topics/images/reference/zzzero/README.md) |
-| `tech` | [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| `tech` | [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) · [第五代骁龙 8 至尊版 参数汇总](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
 | `smartphone` | [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) |
 | `iqoo` | [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) |
-| `specs` | [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
-| `chip` | [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
-| `qualcomm` | [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
-| `snapdragon` | [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| `specs` | [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) · [第五代骁龙 8 至尊版 参数汇总](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| `chip` | [第五代骁龙 8 至尊版 参数汇总](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| `qualcomm` | [第五代骁龙 8 至尊版 参数汇总](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| `snapdragon` | [第五代骁龙 8 至尊版 参数汇总](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) · [骁龙 8 Elite 参数汇总](topics/tech/chips/Snapdragon_8_Elite_参数汇总.md) · [第一代骁龙 8+ 参数汇总](topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| `hardware` | [第五代骁龙 8 至尊版 参数汇总](topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) · [iQOO 15 参数汇总](topics/tech/smartphones/iQOO_15_参数汇总.md) · [iQOO Neo11 参数汇总](topics/tech/smartphones/iQOO_Neo11_参数汇总.md) · [iQOO Neo8 参数汇总](topics/tech/smartphones/iQOO_Neo8_参数汇总.md) |
 
 ---
 

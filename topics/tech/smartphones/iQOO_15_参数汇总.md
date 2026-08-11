@@ -6,6 +6,8 @@ document_updated_at: "2026-08-09"
 tags: ["tech", "smartphone", "iqoo", "specs", "hardware"]
 source: "https://www.vivo.com.cn/vivo/param/iqoo15"
 confidence: "high"
+related:
+  - "../chips/Snapdragon_8_Elite_Gen_5_参数汇总.md"
 ---
 
 # iQOO 15 参数汇总
@@ -50,7 +52,7 @@ confidence: "high"
 
 | 项目 | 参数 |
 |---|---|
-| 处理器 | 第五代骁龙 8 至尊版移动平台 |
+| 处理器 | [第五代骁龙 8 至尊版移动平台](../chips/Snapdragon_8_Elite_Gen_5_参数汇总.md) |
 | CPU 核心数 | 八核处理器 |
 | CPU 主频 | 4.6GHz×2 + 3.62GHz×6 |
 | CPU 位数 | 64 位 |

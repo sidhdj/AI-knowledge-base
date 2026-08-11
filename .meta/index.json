@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 11,
+  "total_entries": 12,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -65,6 +65,7 @@
       "topics/tech/smartphones/iQOO_15_参数汇总.md",
       "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
       "topics/tech/smartphones/iQOO_Neo8_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
@@ -82,18 +83,30 @@
       "topics/tech/smartphones/iQOO_15_参数汇总.md",
       "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
       "topics/tech/smartphones/iQOO_Neo8_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "chip": [
+      "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "qualcomm": [
+      "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "snapdragon": [
+      "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
+    ],
+    "hardware": [
+      "topics/tech/smartphones/iQOO_15_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo8_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ]
@@ -190,6 +203,17 @@
       "summary": "iQOO Neo8（V2301A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
     },
     {
+      "path": "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md",
+      "title": "第五代骁龙 8 至尊版（Snapdragon 8 Elite Gen 5）参数与特性汇总",
+      "tags": ["tech", "chip", "qualcomm", "snapdragon", "hardware", "specs"],
+      "document_created_at": "2026-08-11",
+      "document_updated_at": "2026-08-11",
+      "release_date": "2025-12",
+      "summary": "高通骁龙8至尊版第五代移动平台官方参数，SM8850，第三代Qualcomm Oryon CPU（4.74GHz，另有4.6GHz/7核版本），Adreno HPM 18MB缓存，Hexagon NPU+37%，3×20-bit ISP 全球首款APV，X85 5G 12.5Gbps，FastConnect 7900",
+      "source": "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-gen-5",
+      "model": "SM8850 (SM8850-5-AC / SM8850-1-AB)"
+    },
+    {
       "path": "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "title": "骁龙 8 Elite（Snapdragon 8 Elite）参数与特性汇总",
       "tags": ["tech", "chip", "qualcomm", "snapdragon", "hardware", "specs"],
@@ -275,17 +299,17 @@
       "entries": ["topics/political/入党誓词.md"]
     },
     "tech": {
-      "count": 5,
+      "count": 6,
       "subfolders": ["smartphones", "chips", "images"],
       "smartphones": {
         "count": 3,
         "entries": ["topics/tech/smartphones/iQOO_15_参数汇总.md", "topics/tech/smartphones/iQOO_Neo11_参数汇总.md", "topics/tech/smartphones/iQOO_Neo8_参数汇总.md"]
       },
       "chips": {
-        "count": 2,
-        "entries": ["topics/tech/chips/Snapdragon_8_Elite_参数汇总.md", "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"]
+        "count": 3,
+        "entries": ["topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md", "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md", "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"]
       },
-      "entries": ["topics/tech/smartphones/iQOO_15_参数汇总.md", "topics/tech/smartphones/iQOO_Neo11_参数汇总.md", "topics/tech/smartphones/iQOO_Neo8_参数汇总.md", "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md", "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"]
+      "entries": ["topics/tech/smartphones/iQOO_15_参数汇总.md", "topics/tech/smartphones/iQOO_Neo11_参数汇总.md", "topics/tech/smartphones/iQOO_Neo8_参数汇总.md", "topics/tech/chips/Snapdragon_8_Elite_Gen_5_参数汇总.md", "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md", "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"]
     },
     "notes": {
       "count": 0,
