@@ -8,7 +8,7 @@ source: "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-plu
 author: "高通官网英文翻译（用户提供）"
 confidence: "high"
 related:
-  - "iQOO_Neo8_参数汇总.md"
+  - "../smartphones/iQOO_Neo8_参数汇总.md"
 ---
 
 # 第一代骁龙 8+ 移动平台（Snapdragon 8+ Gen 1）参数与特性汇总
@@ -317,7 +317,7 @@ Snapdragon Connect 技术让你随时随地更快、更久地连接。第 4 代 
 
 | 机型 | 型号 | 备注 |
 |---|---|---|
-| [iQOO Neo8](iQOO_Neo8_参数汇总.md) | V2301A | **降频版**，Prime 核心最高 3.0GHz（标准版 3.2GHz） |
+| [iQOO Neo8](../smartphones/iQOO_Neo8_参数汇总.md) | V2301A | **降频版**，Prime 核心最高 3.0GHz（标准版 3.2GHz） |
 
 ---
 

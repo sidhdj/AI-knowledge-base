@@ -8,7 +8,7 @@ source: "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-eli
 author: "高通官网英文翻译（用户提供）"
 confidence: "high"
 related:
-  - "iQOO_Neo11_参数汇总.md"
+  - "../smartphones/iQOO_Neo11_参数汇总.md"
 ---
 
 # 骁龙 8 Elite（Snapdragon 8 Elite）参数与特性汇总
@@ -266,4 +266,4 @@ Snapdragon 8 Elite Mobile Platform，**性能重塑（performance transformed）
 
 | 机型 | 型号 | 备注 |
 |---|---|---|
-| [iQOO Neo11](iQOO_Neo11_参数汇总.md) | V2520A | 骁龙 8 Elite |
+| [iQOO Neo11](../smartphones/iQOO_Neo11_参数汇总.md) | V2520A | 骁龙 8 Elite |

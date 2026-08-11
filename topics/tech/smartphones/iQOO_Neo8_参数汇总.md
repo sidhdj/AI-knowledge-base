@@ -7,7 +7,7 @@ tags: ["tech", "smartphone", "iqoo", "specs", "hardware"]
 source: "https://www.vivo.com.cn/vivo/param/iqooneo8"
 confidence: "high"
 related:
-  - "Snapdragon_8_Plus_Gen_1_参数汇总.md"
+  - "../chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
 ---
 
 # iQOO Neo8 参数汇总
@@ -43,7 +43,7 @@ related:
 
 | 项目 | 参数 |
 |---|---|
-| 处理器 | 第一代骁龙 8+ 移动平台（**降频版**，Prime 核心最高 3.0GHz，标准版为 3.2GHz）<br>🔗 关联芯片文档：[Snapdragon 8+ Gen 1 参数汇总](Snapdragon_8_Plus_Gen_1_参数汇总.md) |
+| 处理器 | 第一代骁龙 8+ 移动平台（**降频版**，Prime 核心最高 3.0GHz，标准版为 3.2GHz）<br>🔗 关联芯片文档：[Snapdragon 8+ Gen 1 参数汇总](../chips/Snapdragon_8_Plus_Gen_1_参数汇总.md) |
 | CPU | 八核；3.0GHz×1 + 2.5GHz×3 + 1.8GHz×4 |
 | CPU 位数 | 64 位 |
 | GPU | Adreno 730 |

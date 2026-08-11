@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated_at": "2026-08-09",
-  "total_entries": 10,
+  "total_entries": 11,
   "tags_index": {
     "example": [
       "topics/ai-ml/rag-intro.md",
@@ -62,35 +62,40 @@
       "topics/images/reference/zzzero/README.md"
     ],
     "tech": [
-      "topics/tech/iQOO_15_参数汇总.md",
-      "topics/tech/iQOO_Neo11_参数汇总.md",
-      "topics/tech/iQOO_Neo8_参数汇总.md",
-      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+      "topics/tech/smartphones/iQOO_15_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo8_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "smartphone": [
-      "topics/tech/iQOO_15_参数汇总.md",
-      "topics/tech/iQOO_Neo11_参数汇总.md",
-      "topics/tech/iQOO_Neo8_参数汇总.md"
+      "topics/tech/smartphones/iQOO_15_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo8_参数汇总.md"
     ],
     "iqoo": [
-      "topics/tech/iQOO_15_参数汇总.md",
-      "topics/tech/iQOO_Neo11_参数汇总.md",
-      "topics/tech/iQOO_Neo8_参数汇总.md"
+      "topics/tech/smartphones/iQOO_15_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo8_参数汇总.md"
     ],
     "specs": [
-      "topics/tech/iQOO_15_参数汇总.md",
-      "topics/tech/iQOO_Neo11_参数汇总.md",
-      "topics/tech/iQOO_Neo8_参数汇总.md",
-      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+      "topics/tech/smartphones/iQOO_15_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
+      "topics/tech/smartphones/iQOO_Neo8_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "chip": [
-      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+      "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "qualcomm": [
-      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+      "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ],
     "snapdragon": [
-      "topics/tech/Snapdragon_8_Elite_参数汇总.md"
+      "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
+      "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"
     ]
   },
   "entries": [
@@ -155,7 +160,7 @@
       ]
     },
     {
-      "path": "topics/tech/iQOO_15_参数汇总.md",
+      "path": "topics/tech/smartphones/iQOO_15_参数汇总.md",
       "title": "iQOO 15 参数汇总",
       "tags": ["tech", "smartphone", "iqoo", "specs", "hardware"],
       "document_created_at": "2026-08-09",
@@ -164,7 +169,7 @@
       "summary": "iQOO 15（V2505A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
     },
     {
-      "path": "topics/tech/iQOO_Neo11_参数汇总.md",
+      "path": "topics/tech/smartphones/iQOO_Neo11_参数汇总.md",
       "title": "iQOO Neo11 参数汇总",
       "tags": ["tech", "smartphone", "iqoo", "specs", "hardware"],
       "document_created_at": "2026-08-09",
@@ -176,7 +181,7 @@
       ]
     },
     {
-      "path": "topics/tech/iQOO_Neo8_参数汇总.md",
+      "path": "topics/tech/smartphones/iQOO_Neo8_参数汇总.md",
       "title": "iQOO Neo8 参数汇总",
       "tags": ["tech", "smartphone", "iqoo", "specs", "hardware"],
       "document_created_at": "2026-08-09",
@@ -185,7 +190,7 @@
       "summary": "iQOO Neo8（V2301A）完整硬件参数，含处理器、屏幕、电池、影像、机身等"
     },
     {
-      "path": "topics/tech/Snapdragon_8_Elite_参数汇总.md",
+      "path": "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md",
       "title": "骁龙 8 Elite（Snapdragon 8 Elite）参数与特性汇总",
       "tags": ["tech", "chip", "qualcomm", "snapdragon", "hardware", "specs"],
       "document_created_at": "2026-08-10",
@@ -194,6 +199,17 @@
       "summary": "高通骁龙8至尊版移动平台官方参数，SM8750，Qualcomm Oryon CPU，Adreno GPU切片架构，Hexagon NPU，Snapdragon X80 5G，FastConnect 7900",
       "source": "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-mobile-platform",
       "model": "SM8750"
+    },
+    {
+      "path": "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md",
+      "title": "第一代骁龙 8+ 移动平台（Snapdragon 8+ Gen 1）参数与特性汇总",
+      "tags": ["tech", "chip", "qualcomm", "snapdragon", "hardware", "specs"],
+      "document_created_at": "2026-08-10",
+      "document_updated_at": "2026-08-10",
+      "release_date": "2022-07",
+      "summary": "高通骁龙8+ Gen 1移动平台官方参数，SM8475，台积电4nm，Kryo CPU，Adreno 730 GPU，第7代AI Engine，Snapdragon X65 5G，FastConnect 6900",
+      "source": "https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-plus-gen-1-mobile-platform",
+      "model": "SM8475"
     }
   ],
   "topics": {
@@ -259,8 +275,17 @@
       "entries": ["topics/political/入党誓词.md"]
     },
     "tech": {
-      "count": 4,
-      "entries": ["topics/tech/iQOO_15_参数汇总.md", "topics/tech/iQOO_Neo11_参数汇总.md", "topics/tech/iQOO_Neo8_参数汇总.md", "topics/tech/Snapdragon_8_Elite_参数汇总.md"]
+      "count": 5,
+      "subfolders": ["smartphones", "chips", "images"],
+      "smartphones": {
+        "count": 3,
+        "entries": ["topics/tech/smartphones/iQOO_15_参数汇总.md", "topics/tech/smartphones/iQOO_Neo11_参数汇总.md", "topics/tech/smartphones/iQOO_Neo8_参数汇总.md"]
+      },
+      "chips": {
+        "count": 2,
+        "entries": ["topics/tech/chips/Snapdragon_8_Elite_参数汇总.md", "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"]
+      },
+      "entries": ["topics/tech/smartphones/iQOO_15_参数汇总.md", "topics/tech/smartphones/iQOO_Neo11_参数汇总.md", "topics/tech/smartphones/iQOO_Neo8_参数汇总.md", "topics/tech/chips/Snapdragon_8_Elite_参数汇总.md", "topics/tech/chips/Snapdragon_8_Plus_Gen_1_参数汇总.md"]
     },
     "notes": {
       "count": 0,

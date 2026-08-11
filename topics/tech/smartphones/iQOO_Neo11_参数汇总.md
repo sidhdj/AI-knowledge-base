@@ -7,7 +7,7 @@ tags: ["tech", "smartphone", "iqoo", "specs", "hardware"]
 source: "https://www.vivo.com.cn/vivo/param/iqooneo11"
 confidence: "high"
 related:
-  - "Snapdragon_8_Elite_参数汇总.md"
+  - "../chips/Snapdragon_8_Elite_参数汇总.md"
 ---
 
 # iQOO Neo11 参数汇总
@@ -42,7 +42,7 @@ related:
 
 | 项目 | 参数 |
 |---|---|
-| 处理器 | 高通骁龙 8 至尊版移动平台<br>🔗 关联芯片文档：[Snapdragon 8 Elite 参数汇总](Snapdragon_8_Elite_参数汇总.md) |
+| 处理器 | 高通骁龙 8 至尊版移动平台<br>🔗 关联芯片文档：[Snapdragon 8 Elite 参数汇总](../chips/Snapdragon_8_Elite_参数汇总.md) |
 | CPU | 八核；最高主频 4.32GHz（2×4.32GHz + 6×3.53GHz） |
 | GPU | Adreno 830 |
 | 制程 | 3nm |
