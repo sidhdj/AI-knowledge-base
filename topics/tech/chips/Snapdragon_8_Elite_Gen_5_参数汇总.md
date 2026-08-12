@@ -226,6 +226,15 @@ Snapdragon® 8 Elite Gen 5 Mobile Platform 是性能的巅峰之作，带来顶�
 |---|---|
 | 第五代骁龙 8 至尊版（Snapdragon 8 Elite Gen 5） | **611.0** |
 
+### 极客湾 Geekbench 6 排行
+
+- 来源：[极客湾](https://www.geekbay.tv/)
+
+| 测试项 | 第五代骁龙 8 至尊版（Snapdragon 8 Elite Gen 5） |
+|---|---|
+| 单核 | **3836** |
+| 多核 | **12352** |
+
 ---
 
 ## 代表机型（搭载本平台的已知设备）
